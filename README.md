@@ -5,7 +5,7 @@
 
 ### Curious about Web Devoloping
 #### Currently i am learning Next.js and Chakra UI.
-Future Goals : SQLite, Firebase or MongoDb
+Future Goals : React Native, Firebase
 
 Primary Interests:
 ---
@@ -25,6 +25,7 @@ Experienced Techs:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
