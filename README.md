@@ -1,18 +1,17 @@
-# Hi there 👋, my name is Hamit Can
+# Hi there 👋, I'm Hamit Can
 ## Undergraduate Student at Ege University
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/62203579/138698533-083ad68a-e7bc-4ab2-86c4-637a800be50e.gif)
 
 ### Curious about Web Devoloping
-#### Currently i am learning Next.js and Chakra UI.
-Future Goals : React Native, Firebase
+#### Currently learning Firebase
+Future Goals : MongoDB
 
 Primary Interests:
 ---
 ![JS](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 Experienced Techs: 
 ---
@@ -20,6 +19,7 @@ Experienced Techs:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
