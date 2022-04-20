@@ -49,7 +49,7 @@ Experienced Techs:
 
 <div align='center'>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de3ph&theme)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [](url)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de3ph&theme)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=de3ph&show_icons=true)   -->
   
