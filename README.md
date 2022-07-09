@@ -6,16 +6,12 @@
   ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/62203579/138698533-083ad68a-e7bc-4ab2-86c4-637a800be50e.gif)
 
   ### Curious about Web Devoloping
-  #### Currently learning Firebase
   Future Goals : MongoDB
 </div>
 
 
 
 <div align='center'>
-<h2>I'm learning </h2>
-  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   
 </div>
 
