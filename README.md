@@ -6,8 +6,14 @@
   ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/62203579/138698533-083ad68a-e7bc-4ab2-86c4-637a800be50e.gif)
 
   ### Curious about Web Devoloping
+  #### What do I study now?
+  <div align='center'>
+      <h4>MongoDB </h4>
+      <h4>Vitest + React Testing Library </h4>
+  </div>
 </div>
 
+<br />
 
 <div align='center'>
   
@@ -15,8 +21,8 @@
 
 <div align='center'>
 
-Experienced Techs: 
----
+<h2>Experienced Techs</h2>
+
   <div>
   <button>
     <a href='https://nextjs.org/'> 
@@ -55,18 +61,3 @@ Experienced Techs:
 <!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
   
 </div>
-
-<div align='center'>
-  
-<!-- [](url)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de3ph&theme)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=de3ph&show_icons=true)   -->
-  
-</div>
-
-
-<!-- My Resume : [Hamit_Can_DAŞÇİ.pdf](https://github.com/De3ph/De3ph/files/8103896/Hamit_Can_DASCI.pdf) -->
-
-
-  
-
