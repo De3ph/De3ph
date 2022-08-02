@@ -42,6 +42,12 @@
     <img src='https://avatars.githubusercontent.com/u/54212428?v=4' width='85' />
     </a>
   </button>
+  
+  <button>
+    <a href='https://vitejs.dev/'>
+    <img src='https://vitejs.dev/logo-with-shadow.png' width='85' />
+    </a>
+  </button>
   </div>
   
   
