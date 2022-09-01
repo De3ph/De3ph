@@ -8,8 +8,8 @@
   ### Curious about Web Devoloping
   #### What do I study now?
   <div align='center'>
-      <h4>MongoDB </h4>
-      <h4>Vitest + React Testing Library </h4>
+      <h4>TailwindCSS </h4>
+      <h4>Vitest , React Testing Library , Cypress</h4>
   </div>
 </div>
 
