@@ -55,13 +55,13 @@
     <img src='https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg' width='156' />
     </a>
   </button>
-  
+  <!--
   <button>
     <a href='https://svelte.dev'>
     <img src='https://img.stackshare.io/service/6113/7exmJEg4_400x400.png' width='72' />
     </a>
   </button>
-  
+  -->
   <button>
     <a href='https://spring.io/projects/spring-boot'>
     <img src='https://ucarecdn.com/df898380-25a5-4296-9633-0ed47a9c717d/-/autorotate/yes/' width='128' />
