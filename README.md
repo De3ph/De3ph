@@ -6,7 +6,11 @@
   
   ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/62203579/138698533-083ad68a-e7bc-4ab2-86c4-637a800be50e.gif)
   
-  <a href="https://wakatime.com/@b40dc3b0-5e6b-407a-ace4-0e3330498433"><img src="https://wakatime.com/badge/user/b40dc3b0-5e6b-407a-ace4-0e3330498433.svg?style=for-the-badge" alt="Total time coded since Apr 20 2022" /></a>
+  <div><a href="https://wakatime.com/@b40dc3b0-5e6b-407a-ace4-0e3330498433"><img src="https://wakatime.com/badge/user/b40dc3b0-5e6b-407a-ace4-0e3330498433.svg?style=for-the-badge" alt="Total time coded since Apr 20 2022" /></a>
+  </div>
+
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=De3ph)  
+  
   
 </div>
 
@@ -82,8 +86,11 @@
     
   </div>
   
-  <figure><embed src="https://wakatime.com/share/@HCAN/e0ddec5f-dc23-4b0c-a673-e0c18947815f.svg"></embed></figure>
-
+  <br />
+  <br />
+  <br />
+  
+  
 <!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -91,6 +98,4 @@
   
 </div>
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3ph&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
