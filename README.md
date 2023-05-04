@@ -92,8 +92,15 @@
 <!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3ph&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
   
 </div>
+<div>
+  <a href="https://wakatime.com/@b40dc3b0-5e6b-407a-ace4-0e3330498433"><img width='600' src="https://wakatime.com/share/@HCAN/808b94a7-37bd-4df9-94b0-3f409f899a04.svg"  /></a>
+<a href="https://wakatime.com/@b40dc3b0-5e6b-407a-ace4-0e3330498433"><img width='600' src="https://wakatime.com/share/@HCAN/07411e8d-a555-456b-ad83-146e2d2d0bcf.svg"  /></a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3ph&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
