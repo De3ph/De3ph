@@ -2,7 +2,7 @@
 <h3 align='center'> Undergraduate Student at Ege University </h3>
 <h3 align='center'> Part-Time Fullstack Web Developer at <a href='https://ykteknoloji.com.tr'> YapıKredi Teknoloji </a> </h3>
 
-<div align='center'>
+<div>
   
   ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966](https://user-images.githubusercontent.com/62203579/138698533-083ad68a-e7bc-4ab2-86c4-637a800be50e.gif)
   
@@ -20,7 +20,7 @@
   
 </div>
 
-<div align='center'>
+<div>
 
   <h2>Mostly Use</h2>
 
@@ -88,14 +88,6 @@
   <br />
   <br />
   
-  
-<!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De3ph&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--->
   
 </div>
 <div>
