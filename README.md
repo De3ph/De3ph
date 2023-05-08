@@ -16,9 +16,6 @@
 
 <br />
 
-<div align='center'>
-  
-</div>
 
 <div>
 
@@ -69,7 +66,7 @@
    
   </div>
   
-  <div align='center'>
+  <div>
     <h2>Curious On</h2>
     <button>
     <a href='https://fresh.deno.dev/'>
