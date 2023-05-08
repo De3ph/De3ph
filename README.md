@@ -1,6 +1,6 @@
-<h1 align='center'> Hi there 👋, I'm Hamit Can </h1>
-<h3 align='center'> Undergraduate Student at Ege University </h3>
-<h3 align='center'> Part-Time Fullstack Web Developer at <a href='https://ykteknoloji.com.tr'> YapıKredi Teknoloji </a> </h3>
+<h1> Hamit Can </h1>
+<h3> Undergraduate Student at Ege University </h3>
+<h3> Part-Time Fullstack Web Developer at <a href='https://ykteknoloji.com.tr'> YapıKredi Teknoloji </a> </h3>
 
 <div>
   
