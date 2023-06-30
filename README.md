@@ -33,16 +33,7 @@
   
   <div>
     <h2>Curious On</h2>
-    <button>
-    <a href='https://fresh.deno.dev/'>
-      <img src='https://fresh.deno.dev/logo.svg?__frsh_c=9p158zj20v20' width='72' />
-    </a>
-  </button>
-  <button>
-    <a href='https://svelte.dev'>
-    <img src='https://img.stackshare.io/service/6113/7exmJEg4_400x400.png' width='72' />
-    </a>
-  </button>
+   ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
   
   ![img](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     
