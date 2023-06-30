@@ -27,29 +27,6 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
   
-  <button>
-    <a href='https://tailwindcss.com'>
-      <img src='https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg' width='72' />
-    </a>
-  </button>
-  
-   <button>
-    <a href='https://daisyui.com'>
-      <img src='https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg' width='156' />
-    </a>
-  </button>
-    
-  <button>
-    <a href='https://vitejs.dev/'>
-      <img src='https://vitejs.dev/logo-with-shadow.png' width='72' />
-    </a>
-  </button>
-  
-  <button>
-    <a href='https://spring.io/projects/spring-boot'>
-    <img src='https://ucarecdn.com/df898380-25a5-4296-9633-0ed47a9c717d/-/autorotate/yes/' width='128' />
-    </a>
-  </button>
    
   </div>
   
