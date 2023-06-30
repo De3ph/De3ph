@@ -22,11 +22,8 @@
   <h2>Mostly Use</h2>
 
   <div>
-  <button>
-    <a href='https://nextjs.org/'> 
-      <img src='https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png' width='72' />
-    </a>
-  </button>
+  
+  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   
   <button>
     <a href='https://reactjs.org/'>
