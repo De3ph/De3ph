@@ -31,6 +31,8 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![MobX](https://img.shields.io/badge/mobx-f0f0f0?style=for-the-badge&logo=mobx&logoColor=DC5B0E)
+
    
   </div>
   
