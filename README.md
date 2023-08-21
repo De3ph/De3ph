@@ -1,6 +1,6 @@
 <h1> Hamit Can </h1>
 <h3> Undergraduate Student at Ege University </h3>
-<h3> Part-Time Fullstack Web Developer at <a href='https://ykteknoloji.com.tr'> YapıKredi Teknoloji </a> </h3>
+<h3> Part-Time Fullstack Software Engineer at <a href='https://ykteknoloji.com.tr'> YapıKredi Teknoloji </a> </h3>
 
 <div>
   
@@ -19,7 +19,7 @@
 
 <div>
 
-  <h2>Mostly Use</h2>
+  <h2>Techs</h2>
 
   <div>
   
@@ -32,18 +32,12 @@
   ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![MobX](https://img.shields.io/badge/mobx-f0f0f0?style=for-the-badge&logo=mobx&logoColor=DC5B0E)
-
-   
-  </div>
-  
-  <div>
-    
-  <h2>Also Work With</h2>
-    
   ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
     
   </div>
   
