@@ -2,6 +2,11 @@
 <h3> Undergraduate Student at Ege University </h3>
 <h3> Part-Time Fullstack Software Engineer at <a href='https://ykteknoloji.com.tr'> YapıKredi Teknoloji </a> </h3>
 <h3> Love to build things 👨‍💻 </h3>
+<div>
+  <h4>Recently working with</h3>
+  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+</div>
 
 <div>
   
