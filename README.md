@@ -47,6 +47,7 @@
   ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
   ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/static/v1?label=&message=Jetpack+Compose&color=%231e1e1e&style=for-the-badge&logo=jetpackcompose&logoColor=%234285F4)
 
   </div>
   
