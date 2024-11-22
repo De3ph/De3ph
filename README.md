@@ -12,7 +12,7 @@
 
 <div>
 
-  <h2>Things I'm usign / had experince to work</h2>
+  <h2>Technologies and tools I’ve worked with or am currently using</h2>
   <div>
     
   ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
