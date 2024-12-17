@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/hamitcandasci/">Hamit Can DAŞÇİ</a>
     
 </div>
-
+<!--
 <div>
 
   <h2>Technologies and tools I’ve worked with or am currently using</h2>
@@ -47,6 +47,8 @@
   
   
 </div>
+-->
+
 <!--
 <div>
   <a href="https://wakatime.com/@b40dc3b0-5e6b-407a-ace4-0e3330498433"><img width='600' src="https://wakatime.com/share/@HCAN/808b94a7-37bd-4df9-94b0-3f409f899a04.svg"  /></a>
